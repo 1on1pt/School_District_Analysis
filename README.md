@@ -36,8 +36,16 @@ Software: Python 3.7.6; Pandas 1.3.5; Jupyter Notebook
 
 ![image](https://user-images.githubusercontent.com/94148420/149845893-04d31948-b1df-42bb-8435-8ab6424a843d.png)
 
-
 ### How is the school summary affected?
+
+
+**Original Summary**
+
+
+**Revised Summary**
+
+![image](https://user-images.githubusercontent.com/94148420/149846637-48659107-28de-456e-83c0-cd2ab818a7b3.png)
+
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
