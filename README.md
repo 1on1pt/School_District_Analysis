@@ -8,6 +8,7 @@ After the initial report was completed, the school board discovered that there w
 This presentation will include a disussion how removing the Thomas High School ninth grade math and reading scores from the original report affected the overall analysis and this will ultimately assist the school board and superintendent in their budgeting process and setting priorities.
 
 ### Resources
+Data Source: schools_complete.csv; students_complete.csv
 
 ## Results
 
