@@ -34,8 +34,7 @@ Software: Python 3.7.6; Pandas 1.3.5; Jupyter Notebook
 
 **Revised Summary**
 
-![image](https://user-images.githubusercontent.com/94148420/149845824-026028d4-16bc-41a5-b511-52f1dd224df2.png)
-
+![image](https://user-images.githubusercontent.com/94148420/149845893-04d31948-b1df-42bb-8435-8ab6424a843d.png)
 
 
 ### How is the school summary affected?
