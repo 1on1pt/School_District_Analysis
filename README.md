@@ -38,7 +38,7 @@ Software: Python 3.7.6; Pandas 1.3.5; Jupyter Notebook
 
 ### 2. How is the school summary affected?
 
-Replacing the Thomas High School ninth grade math and reading scores with Nan did not significantly affect the overall school average scores.  
+Replacing the Thomas High School ninth grade math and reading scores with Nan did not significantly affect the overall school average math and reading scores, percent passing math and reading, and % overall passing.  The orignal versus revised summary demonstrated -.067 difference for average math score, +.047 for average reading score, -.086 for % passing math, -.290 for % passing reading, and -.318 for % overall passing.
 
 **Original Summary**
 
@@ -48,8 +48,18 @@ Replacing the Thomas High School ninth grade math and reading scores with Nan di
 
 ![image](https://user-images.githubusercontent.com/94148420/149846637-48659107-28de-456e-83c0-cd2ab818a7b3.png)
 
-
 ### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+
+**Original Summary**
+
+![image](https://user-images.githubusercontent.com/94148420/149848368-6b8a6f1f-46c7-4880-837e-aed892a0c637.png)
+
+
+**Revised Summary**
+
+
+
 
 ### 4. How does replacing the ninth-grade scores affect the following:
 
