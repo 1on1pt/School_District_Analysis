@@ -7,7 +7,7 @@ After the initial report was completed, the school board discovered that there w
 
 This presentation will include a disussion on how removing the Thomas High School ninth grade math and reading scores from the original report affected the overall analysis.  The final school district analysis will ultimately assist the school board and superintendent in their budgeting process and setting priorities.
 
-This comprehensive school district analysis included the following metrics:
+**This comprehensive school district analysis included the following metrics:**
 * The District Summary
 * The School Summary
 * The Top 5 Performing Schools
