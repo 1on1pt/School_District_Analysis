@@ -9,6 +9,8 @@ This presentation will include a disussion how removing the Thomas High School n
 
 ### Resources
 Data Source: schools_complete.csv; students_complete.csv
+Code: PyCitySchools_Challenge.ipynb
+Software: Python 3.7.6; 
 
 ## Results
 
