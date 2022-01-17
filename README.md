@@ -38,7 +38,7 @@ Software: Python 3.7.6; Pandas 1.3.5; Jupyter Notebook
 
 ### 2. How is the school summary affected?
 
-
+Replacing the Thomas High School ninth grade math and reading scores with Nan did not significantly affect the overall school average scores.  
 
 **Original Summary**
 
