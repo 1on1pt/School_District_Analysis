@@ -30,7 +30,7 @@ Software: Python 3.7.6; Pandas 1.3.5; Jupyter Notebook
 
 **Original Summary**
 
-![image](https://user-images.githubusercontent.com/94148420/149780103-9b38d55b-0097-4325-94e5-105c69058040.png)
+![image](https://user-images.githubusercontent.com/94148420/149846032-c2ba37b8-f52f-49ea-8093-cb6fe37bb62e.png)
 
 **Revised Summary**
 
