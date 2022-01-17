@@ -24,7 +24,18 @@ Code: PyCitySchools_Challenge.ipynb
 Software: Python 3.7.6; Pandas 1.3.5; Jupyter Notebook
 
 ## Results
-### How is the district summary affected?
+### 1. How is the district summary affected?
+
+* The total number of students in the district summary was the most significant change when comparing the original summary (39,170 students) with the revised summary (38,709 students) for an overall difference of 461 less students in the revised summary.
+
+**Original Summary**
+
+![image](https://user-images.githubusercontent.com/94148420/149780103-9b38d55b-0097-4325-94e5-105c69058040.png)
+
+**Revised Summary**
+
+![image](https://user-images.githubusercontent.com/94148420/149780276-5f6623f8-a322-42fc-b7cd-78d76581423a.png)
+
 
 ### How is the school summary affected?
 
