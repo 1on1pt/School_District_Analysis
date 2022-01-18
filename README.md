@@ -5,7 +5,7 @@ Maria, who is the Chief Data Scientist for the Py City School District, has been
 
 After the initial report was completed, the school board discovered that there was evidence of academic dishonesty where the Thomas High School ninth grade math and reading scores were altered.  The school board has asked that the math and reading scores at Thomas High School be replaced with NaNs while keeping the rest of the report intact.
 
-This presentation will include a disussion on how removing the Thomas High School ninth grade math and reading scores from the original report affected the overall analysis.  The final school district analysis will ultimately assist the school board and superintendent in their budgeting process and setting priorities.
+This presentation will include a discussion on how removing the Thomas High School ninth grade math and reading scores from the original report affected the overall analysis.  The final school district analysis will ultimately assist the school board and superintendent in their budgeting process and setting priorities.
 
 **This comprehensive school district analysis included the following metrics:**
 * The District Summary
