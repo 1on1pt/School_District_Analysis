@@ -90,7 +90,7 @@ Software: Python 3.7.6; Pandas 1.3.5; Jupyter Notebook
 
 * **Scores by school size**
 
- * There is no difference in the scores by *school size* when the Thomas High School ninth grade math and reading scores are replaced.
+  * There is no difference in the scores by *school size* when the Thomas High School ninth grade math and reading scores are replaced.
 
 **Original Summary**
 
@@ -102,7 +102,7 @@ Software: Python 3.7.6; Pandas 1.3.5; Jupyter Notebook
 
 * **Scores by school type**
 
- * There is no difference in the scores by *school type* when the Thomas High School ninth grade math and reading scores are replaced.
+  * There is no difference in the scores by *school type* when the Thomas High School ninth grade math and reading scores are replaced.
 
 **Original Summary**
 
