@@ -55,11 +55,11 @@ Software: Python 3.7.6; Pandas 1.3.5; Jupyter Notebook
 
 **Original Summary**
 
-![image](https://user-images.githubusercontent.com/94148420/149848368-6b8a6f1f-46c7-4880-837e-aed892a0c637.png)
+![image](https://user-images.githubusercontent.com/94148420/149853162-8fe9876c-682b-4a4e-9df5-ca26fc8df874.png)
 
 **Revised Summary**
 
-![image](https://user-images.githubusercontent.com/94148420/149850229-a6ad7202-9310-4c5f-8241-db8cbc273c61.png)
+![image](https://user-images.githubusercontent.com/94148420/149853111-69c11df2-3841-4eb8-b682-42325f11c3d2.png)
 
 ### 4. How does replacing the ninth-grade scores affect the following:
 
