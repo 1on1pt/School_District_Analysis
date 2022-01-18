@@ -78,7 +78,7 @@ Software: Python 3.7.6; Pandas 1.3.5; Jupyter Notebook
 
 * **Scores by school spending**
 
- * There is no significant difference in the scores by *school spending* when the Thomas High School ninth grade math and reading scores are replaced.  Below is the original summary as compared to the revised summary.
+  * There is no significant difference in the scores by *school spending* when the Thomas High School ninth grade math and reading scores are replaced.  Below is the original summary as compared to the revised summary.
 
 **Original Summary**
 
