@@ -120,7 +120,7 @@ Due to evidence of academic dishonesty, the Py City School District requested th
 2. **Thomas High School:** decreased in % passing math by .086, decreased % passing reading by .290, and decreased % overall passing by .318.
 3. **Top School Ranking:** Despite the change of removing the ninth grade math and reading scores, Thomas High School was able to maintain it's #2 ranking in the school district.
 4. **Scores by School Spending:**  There is no appreciable difference.
-5. **Scores by School Size"**  There is no appreciable difference.
+5. **Scores by School Size**  There is no appreciable difference.
 6. **Scores by School Type:**  There is no appreciable difference.
 
 
