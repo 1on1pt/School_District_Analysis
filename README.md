@@ -50,6 +50,8 @@ Software: Python 3.7.6; Pandas 1.3.5; Jupyter Notebook
 
 ### 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
+* Replacing the Thomas High School ninth grade math and reading scores with NaN did not affect the high school's performance relative to the other schools.
+* Thomas High School was able to maintain as the second highest performing high school in the district.
 
 **Original Summary**
 
@@ -60,16 +62,48 @@ Software: Python 3.7.6; Pandas 1.3.5; Jupyter Notebook
 
 ![image](https://user-images.githubusercontent.com/94148420/149850229-a6ad7202-9310-4c5f-8241-db8cbc273c61.png)
 
-
-
 ### 4. How does replacing the ninth-grade scores affect the following:
 
 * **Math and reading scores by grade**
 
+  * Replacing the Thomas High School ninth grade math and reading scores resulted in NaNs in the 9th grade column.  Below is an example demonstrating the results comparing the original with the revised math score. 
+
+**Math Score Original Summary**
+
+![image](https://user-images.githubusercontent.com/94148420/149851867-62b91e28-4660-4c48-90bc-dd9964a1eec0.png)
+
+**Math Score Revised Summary**
+
+![image](https://user-images.githubusercontent.com/94148420/149851686-53c46767-0ac4-4bd2-8bd6-8ee9aa365e2c.png)
+
 * **Scores by school spending**
+
+
+
+**Original Summary**
+
+![image](https://user-images.githubusercontent.com/94148420/149852127-6eb177ca-a863-4f35-82ac-2741bd263dcb.png)
+
+
+**Revised Summary**
+
+![image](https://user-images.githubusercontent.com/94148420/149852304-b525bc4f-592e-4649-a466-3f72eb6c6c91.png)
+
 
 * **Scores by school size**
 
+**Original Summary**
+
+
+**Revised Summary**
+
 * **Scores by school type**
+
+
+**Original Summary**
+
+
+**Revised Summary**
+
 
 ## Summary
