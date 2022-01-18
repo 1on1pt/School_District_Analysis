@@ -82,7 +82,7 @@ Software: Python 3.7.6; Pandas 1.3.5; Jupyter Notebook
 
 **Original Summary**
 
-![image](https://user-images.githubusercontent.com/94148420/149852670-d2663ab3-2f30-4e6e-9519-f8e59f1cb8fa.png)
+![image](https://user-images.githubusercontent.com/94148420/149854294-34558033-c8fb-47b0-b495-bbd54cea41b0.png)
 
 **Revised Summary**
 
@@ -90,6 +90,7 @@ Software: Python 3.7.6; Pandas 1.3.5; Jupyter Notebook
 
 * **Scores by school size**
 
+ * There is no difference in the scores by school size when the Thomas High School ninth grade math and reading scores are replaced.
 **Original Summary**
 
 ![image](https://user-images.githubusercontent.com/94148420/149854099-f9ceb319-6fb6-4c8f-ba6e-97029c240810.png)
@@ -103,8 +104,10 @@ Software: Python 3.7.6; Pandas 1.3.5; Jupyter Notebook
 
 **Original Summary**
 
+![image](https://user-images.githubusercontent.com/94148420/149854567-c380fb65-d9b4-4f54-9064-0d012d6e7c74.png)
 
 **Revised Summary**
 
+![image](https://user-images.githubusercontent.com/94148420/149854623-71ee3305-bf4e-4492-a5d0-eac10285c7db.png)
 
 ## Summary
