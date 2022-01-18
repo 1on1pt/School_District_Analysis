@@ -30,11 +30,11 @@ Software: Python 3.7.6; Pandas 1.3.5; Jupyter Notebook
 
 **Original Summary**
 
-![image](https://user-images.githubusercontent.com/94148420/149846032-c2ba37b8-f52f-49ea-8093-cb6fe37bb62e.png)
+![image](https://user-images.githubusercontent.com/94148420/149853397-4fd8688f-de5a-441b-8540-28b8960f2be7.png)
 
 **Revised Summary**
 
-![image](https://user-images.githubusercontent.com/94148420/149845893-04d31948-b1df-42bb-8435-8ab6424a843d.png)
+![image](https://user-images.githubusercontent.com/94148420/149853463-2ba11d93-733e-4cf6-97e5-b771e7822f4b.png)
 
 ### 2. How is the school summary affected?
 
