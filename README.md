@@ -116,6 +116,7 @@ Software: Python 3.7.6; Pandas 1.3.5; Jupyter Notebook
 
 Due to evidence of academic dishonesty, the Py City School District requested that the Thomas High School ninth grade math and reading scores be removed from the school district analysis.  As a result, the following changes were noted in the revised schoold district analysis:
 
-1. **District Analysis:** The total number of students dropped from 39,170 to 38,709, for a difference of 461 students.  In addition, there were slight decreases in average math score, % passing math, % passing reading, and % overall passing.
-2. Thomas High School decreased in % passing math by .086, decreased % passing reading by .290, and decreased % overall passing by .318.
-3. 
+1. **District Analysis:** The total number of students dropped from 39,170 to 38,709, for a difference of 461 students.  In addition, there were slight decreases in average math score (-0.1), % passing math (-.2), % passing reading (-0.3), and % overall passing (-0.1).
+2. **Thomas High School:** decreased in % passing math by .086, decreased % passing reading by .290, and decreased % overall passing by .318.
+3. **Top School Ranking:** Despite the change of removing the ninth grade math and reading scores, Thomas High School was able to maintain it's #2 ranking in the school district.
+4. 
