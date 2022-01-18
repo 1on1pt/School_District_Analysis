@@ -119,4 +119,8 @@ Due to evidence of academic dishonesty, the Py City School District requested th
 1. **District Analysis:** The total number of students dropped from 39,170 to 38,709, for a difference of 461 students.  In addition, there were slight decreases in average math score (-0.1), % passing math (-.2), % passing reading (-0.3), and % overall passing (-0.1).
 2. **Thomas High School:** decreased in % passing math by .086, decreased % passing reading by .290, and decreased % overall passing by .318.
 3. **Top School Ranking:** Despite the change of removing the ninth grade math and reading scores, Thomas High School was able to maintain it's #2 ranking in the school district.
-4. 
+4. **Scores by School Spending:**  There is no appreciable difference.
+5. **Scores by School Size"**  There is no appreciable difference.
+6. **Scores by School Type:**  There is no appreciable difference.
+
+
