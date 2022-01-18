@@ -57,7 +57,6 @@ Software: Python 3.7.6; Pandas 1.3.5; Jupyter Notebook
 
 ![image](https://user-images.githubusercontent.com/94148420/149848368-6b8a6f1f-46c7-4880-837e-aed892a0c637.png)
 
-
 **Revised Summary**
 
 ![image](https://user-images.githubusercontent.com/94148420/149850229-a6ad7202-9310-4c5f-8241-db8cbc273c61.png)
@@ -70,11 +69,12 @@ Software: Python 3.7.6; Pandas 1.3.5; Jupyter Notebook
 
 **Math Score Original Summary**
 
-![image](https://user-images.githubusercontent.com/94148420/149851867-62b91e28-4660-4c48-90bc-dd9964a1eec0.png)
+![image](https://user-images.githubusercontent.com/94148420/149852807-3675e2a7-3ce4-49fb-93d7-627decd2adc0.png)
 
 **Math Score Revised Summary**
 
-![image](https://user-images.githubusercontent.com/94148420/149851686-53c46767-0ac4-4bd2-8bd6-8ee9aa365e2c.png)
+![image](https://user-images.githubusercontent.com/94148420/149852911-73fa9b59-fa13-41ed-b9a2-6c8f35fdee5f.png)
+
 
 * **Scores by school spending**
 
