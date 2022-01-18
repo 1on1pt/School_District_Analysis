@@ -26,7 +26,7 @@ Software: Python 3.7.6; Pandas 1.3.5; Jupyter Notebook
 ## Results
 ### 1. How is the district summary affected?
 
-* The total number of students in the district summary was the most significant change when comparing the original summary (39,170 students) with the revised summary (38,709 students) for an overall difference of 461 less students in the revised summary.
+* The total number of students in the district summary was the most significant change when comparing the original summary (39,170 students) with the revised summary (38,709 students) for an overall difference of 461 less students in the revised summary.  Slight decreases in average math score, % passing math, % passing reading, and % overall passing is demonstrated.
 
 **Original Summary**
 
@@ -116,6 +116,6 @@ Software: Python 3.7.6; Pandas 1.3.5; Jupyter Notebook
 
 Due to evidence of academic dishonesty, the Py City School District requested that the Thomas High School ninth grade math and reading scores be removed from the school district analysis.  As a result, the following changes were noted in the revised schoold district analysis:
 
-1. The total number of students dropped from 39,170 to 38,709, for a difference of 461 students.
+1. **District Analysis:** The total number of students dropped from 39,170 to 38,709, for a difference of 461 students.  In addition, there were slight decreases in average math score, % passing math, % passing reading, and % overall passing.
 2. Thomas High School decreased in % passing math by .086, decreased % passing reading by .290, and decreased % overall passing by .318.
 3. 
