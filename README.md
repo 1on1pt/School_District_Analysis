@@ -82,12 +82,12 @@ Software: Python 3.7.6; Pandas 1.3.5; Jupyter Notebook
 
 **Original Summary**
 
-![image](https://user-images.githubusercontent.com/94148420/149852127-6eb177ca-a863-4f35-82ac-2741bd263dcb.png)
-
+![image](https://user-images.githubusercontent.com/94148420/149852670-d2663ab3-2f30-4e6e-9519-f8e59f1cb8fa.png)
 
 **Revised Summary**
 
-![image](https://user-images.githubusercontent.com/94148420/149852304-b525bc4f-592e-4649-a466-3f72eb6c6c91.png)
+![image](https://user-images.githubusercontent.com/94148420/149852583-495ddcfa-7a63-4b3b-b5a5-524da1e200af.png)
+
 
 
 * **Scores by school size**
